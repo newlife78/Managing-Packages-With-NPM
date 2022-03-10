@@ -1,5 +1,6 @@
 {
 	"author": "Paulo Fidalgo",
+	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"dotenv": "^16.0.0",
