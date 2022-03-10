@@ -1,4 +1,5 @@
 {
+	"author": "Paulo Fidalgo",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"dotenv": "^16.0.0",
@@ -11,6 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Paulo Fidalgo"
+	}
 }
